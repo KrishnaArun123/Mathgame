@@ -1,0 +1,62 @@
+body
+{
+	background-image: url("https://th.bing.com/th/id/R.3cf065e5a91549cddd7d7b1afa49aeb9?rik=wJ6ql8Ufs6%2bDhw&riu=http%3a%2f%2fi.imgur.com%2fXtQub4O.png&ehk=4RnQXyQFOxH29k4UBREEvlGjpSmeiqtydt5dpOkuzA4%3d&risl=&pid=ImgRaw&r=0");
+	background-size:cover;
+}
+.login_div1 , .login_div2
+	{
+		background-image: url("https://i0.wp.com/calmatters.org/wp-content/uploads/2021/08/math-curriculum.jpg?fit=1200%2C900&ssl=1");
+		padding: 50px;
+		float: none;
+	}
+
+
+#player1 , #player2
+{
+	display: inline-block;
+	padding:20px;
+
+}
+#player1:hover{
+background-color:aqua;
+padding:20px;
+height:70px;
+}
+#player2:hover{
+	background-color:yellowgreen;
+	padding:20px;
+	height:70px;
+
+	}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+label{
+color: white;
+font-size: 20px;
+
+}
+h3{
+	color: white;
+}
+h1{
+	color:white;
+	font-size: 70px;
+
+}
+
